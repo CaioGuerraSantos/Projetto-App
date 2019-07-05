@@ -3,8 +3,8 @@
   position:relative;
   left:30%;
   top:16%;
-  width:320px;
-  height:270px;
+  width:3200px;
+  height:2700px;
 }
 #app #formulario
 {
@@ -13,11 +13,11 @@
 }
 fieldset
 {
-  width:250px;
-  height:150px;
+  width:740px;
+  height:8000px;
 }
-legend
+button
 {
-  font-style: oblique
+  font-style: oblique;
   font-family: Georgia, 'Times New Roman', Times, serif
 }
