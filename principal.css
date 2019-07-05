@@ -1,0 +1,23 @@
+#area
+{
+  position:relative;
+  left:30%;
+  top:16%;
+  width:320px;
+  height:270px;
+}
+#area #formulario
+{
+  position:absolute;
+  display:block;   
+}
+fieldset
+{
+  width:450px;
+  height:150px;
+}
+legend
+{
+  font-style: oblique;
+  font-family: Georgia, 'Times New Roman', Times, serif
+}
